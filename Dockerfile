@@ -7,6 +7,5 @@ ENV MEMORY=512M
 ENV ONLINE_MODE=false
 
 COPY plugins/ /plugins/
-COPY config/ /config/
 
 EXPOSE 25565

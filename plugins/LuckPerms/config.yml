@@ -1,0 +1,8 @@
+storage-method: postgresql
+
+data:
+  address: r113ljitdn5pvnf6exdv85vx
+  port: 5432
+  database: postgres
+  username: postgres
+  password: minecraftsolo

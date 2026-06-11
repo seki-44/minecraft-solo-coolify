@@ -1,0 +1,8 @@
+storage-method: postgresql
+
+data:
+  address: DEIN-DB-HOSTNAME
+  port: 5432
+  database: postgres
+  username: postgres
+  password: sicheresPasswort123
